@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env
+.env.local
+.env.*.local
+dist/
+coverage/
+npm-debug.log*
+.DS_Store
+docker-compose.override.yml
+week10-app-*/

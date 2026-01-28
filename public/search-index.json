@@ -1,0 +1,8 @@
+[
+  {"title":"Introduction (en v1)", "locale":"en","version":"v1","slug":"introduction","content":"Welcome to the English v1 introduction. This is sample documentation content."},
+  {"title":"Introduction (en v2)", "locale":"en","version":"v2","slug":"introduction","content":"This is English v2 content."},
+  {"title":"Introducción (es v1)", "locale":"es","version":"v1","slug":"introduction","content":"Bienvenido a la introducción en Español v1. Este es contenido de ejemplo."},
+  {"title":"Introducción (es v2)", "locale":"es","version":"v2","slug":"introduction","content":"Este es el contenido en Español v2."},
+  {"title":"Introduction (fr v1)", "locale":"fr","version":"v1","slug":"introduction","content":"Bienvenue dans l'introduction en Français v1. Ceci est un contenu d'exemple."},
+  {"title":"Einführung (de v1)", "locale":"de","version":"v1","slug":"introduction","content":"Willkommen zur deutschen Einführung v1. Dies ist Beispielinhalt."}
+]
