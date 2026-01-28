@@ -5,7 +5,7 @@
 
 ```bash
 # set your remote URL and run the helper
-GIT_REMOTE=git@github.com:your-username/your-repo.git bash scripts/prepare_repo.sh
+GIT_REMOTE=https://github.com/Susmitha-coder-hub/ISR-and-i18nbash scripts/prepare_repo.sh
 ```
 
 3. If you prefer manual steps:
@@ -14,7 +14,7 @@ GIT_REMOTE=git@github.com:your-username/your-repo.git bash scripts/prepare_repo.
 git init -b main
 git add --all
 git commit -m "chore: initial commit — Next.js multi-language docs site"
-git remote add origin git@github.com:your-username/your-repo.git
+git remote add origin https://github.com/Susmitha-coder-hub/ISR-and-i18n
 git push -u origin main
 ```
 
